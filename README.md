@@ -1,4 +1,6 @@
-# Festivus Theme
+# Festivus Theme 🎄🎁
+
+![Festivus](https://media.giphy.com/media/KAQzzHa1ZugRG/giphy.gif)
 
 Sublime Text 3 Theme by [Matt Hamil](http://matthamil.me)
 
