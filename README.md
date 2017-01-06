@@ -4,7 +4,7 @@
 
 Sublime Text 3 Theme by [Matt Hamil](http://matthamil.me)
 
-Webstorm Theme by [Kyle Welch](https://github.com/kwelch)
+PhpStorm/WebStorm Theme by [Kyle Welch](https://github.com/kwelch) generated using [JetBrians Color Scheme Tool](https://github.com/JetBrains/colorSchemeTool)
 
 ## Screenshots
 
@@ -23,7 +23,8 @@ In Sublime Text, go to `Preferences` -> `Browse Packages`. Create a new folder c
 
 Back in Sublime Text, select `Festivus` as your color scheme.
 
-## WebStorm Installation
+## PhpStorm/WebStorm Installation
 
-In WebStorm, go to `File` -> `Import Settings`. Select the `festivus.jar`, this will then ask you to restart WebStorm.
-Once restarted you can select `Festivus` scheme from the `Colors & Fonts` dropdown.
+Copy `Festivus.icls` to [color scheme directory](http://stackoverflow.com/a/36164120/1139444).
+
+Then restart application if it is open, then under `Preferences` you will be in the scheme drop down list on `Editor -> Colors & Fonts`.
