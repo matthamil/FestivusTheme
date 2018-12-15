@@ -15,7 +15,7 @@ PhpStorm/WebStorm Theme by [Kyle Welch](https://github.com/kwelch) generated usi
 
 ## Sublime Text Installation
 
-**NOTE** This repo is being prepared to be submitted to [Package Control](https://packagecontrol.io). In the mean time, follow these instructions to install:
+**NOTE** This repo is not submitted to [Package Control](https://packagecontrol.io). Follow these instructions to install:
 
 ### OS X
 
